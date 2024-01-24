@@ -2,7 +2,7 @@
 👩🏻‍💻 Fullstack developer student </br>
 👩🏻‍🎓 Studied Computer science at the university of Bejaia,Algeria </br>
 💭 Currently learning about java script </br>
-🛜 Stay updated with my journey on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rania-benamara-b342602b0)
+🛜 Stay updated with my journey on [![LinkedIn](https://linkedin.com/in/rania-benamara-b342602b0)
 
 <!--
 **rania-benamara/rania-benamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
