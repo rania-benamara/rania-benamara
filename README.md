@@ -1,7 +1,7 @@
 ### Hi,I'm Rania 👋
-👩🏻‍💻 Fullstack developer student </br>
+👩🏻‍💻 Web developer student </br>
 👩🏻‍🎓 Studied Computer science at the university of Bejaia,Algeria </br>
-💭 Currently learning about java script </br>
+💭 Currently learning about Reactjs </br>
 🛜 Stay updated with my journey on [LinkedIn](https://linkedin.com/in/rania-benamara-b342602b0)
 
 <!--
